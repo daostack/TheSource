@@ -17,9 +17,6 @@
         "🙏": 1
       }
     },
-    "discourseServer": {
-      "serverUrl": "https://forum.metagame.wtf"
-    },
     "identities": [
       {"username": "orenyodfat", "aliases": ["github/orenyodfat", "discord/469035749895831563"]},
       {"username": "theylon", "aliases": ["github/theylon", "discord/333143183355543552"]}
